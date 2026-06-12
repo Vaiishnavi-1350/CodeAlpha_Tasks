@@ -62,7 +62,7 @@ Applied deep learning and speech signal processing techniques to classify emotio
 
 ---
 
-## 👩‍💻 Developed By
+## Developed By
 
 **Vaishnavi Jadhav**
 
