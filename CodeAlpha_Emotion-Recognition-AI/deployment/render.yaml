@@ -1,0 +1,13 @@
+services:
+
+- type: web
+
+  name: emotionsense-ai
+
+  runtime: docker
+
+  dockerfilePath:
+    deployment/Dockerfile
+
+  plan: free
+  

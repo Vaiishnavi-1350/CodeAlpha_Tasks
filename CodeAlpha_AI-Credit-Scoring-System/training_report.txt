@@ -1,0 +1,16 @@
+AI CREDIT SCORING SYSTEM REPORT
+============================================================
+
+Dataset Shape: (32581, 14)
+
+Accuracy: 0.9240
+ROC-AUC: 0.9228
+
+              precision    recall  f1-score   support
+
+           0       0.92      0.99      0.95      5095
+           1       0.97      0.68      0.80      1422
+
+    accuracy                           0.92      6517
+   macro avg       0.94      0.83      0.87      6517
+weighted avg       0.93      0.92      0.92      6517

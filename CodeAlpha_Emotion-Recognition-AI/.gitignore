@@ -1,0 +1,47 @@
+# Virtual Environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+temp.wav
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Generated reports
+*_report.pdf
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Model files (uncomment if they are too large to upload)
+# *.h5
+# *.keras
+# *.pkl
+# *.joblib
